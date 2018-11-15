@@ -1,4 +1,8 @@
-﻿Shader "SnowTrack" {
+//This is the shader that causes the terrain to deform as you go over it
+//you must assign this to a metrial and put it on your plane
+//you must have a render texture for this to work
+
+Shader "SnowTrack" {
 	Properties {
 		_Color ("Color", Color) = (1,1,1,1)
 		_MainTex ("Albedo (RGB)", 2D) = "white" {}

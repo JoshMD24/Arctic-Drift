@@ -1,4 +1,6 @@
-﻿Shader "Custom/Snow Track" {
+//This is the shader that causes the terrain to deform as you move over it
+
+Shader "Custom/Snow Track" {
 	Properties {
 		_Color ("Color", Color) = (1,1,1,1)
 		_MainTex ("Albedo (RGB)", 2D) = "white" {}

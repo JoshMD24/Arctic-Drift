@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+//To make this script work you must assign to to your main camera then select the object you want it to follow
+
+using UnityEngine;
 
 public class CameraFollowPlayer : MonoBehaviour
 {

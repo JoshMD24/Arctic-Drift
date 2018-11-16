@@ -8,7 +8,7 @@ Shader "SnowTrack" {
 		_MainTex ("Albedo (RGB)", 2D) = "white" {}
 	    _NormalMap("Normal (RGB)", 2D) = "bump" {} //making the normal map texture
      	_DisplaceTex("Displace (RGB)", 2D) = "white" {} //making the displace texture
-		_Displacement ("Displacement", Range(0,1)) = 0.2 // making the displacement with range and strangth
+		_Displacement ("Displacement", Range(0,1)) = 0.2 // making the displacement with range and strength
 		_Glossiness("Smoothness", Range(0,1)) = 0.5 //setting the smoothness
 		_Metallic ("Metallic", Range(0,1)) = 0.0 //how metallic it is
 	}

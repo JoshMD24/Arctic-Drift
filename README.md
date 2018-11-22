@@ -2,6 +2,4 @@ Joshua diCenzo
 
 Dynamic Snow
 
-With my dynamic snow i am attempting to recreate the terrain interaction
-between car wheels and terrain that you can find in forza horizon 4,
-More specifically i am attempting to leave wheel tracks in the snow as i drive.
+I am attempting to create dynamic snow that will interact with objects in the scene. I want to use this to replicate the interaction between car wheels and terrain that you find in Forza Horizon, More specifically leaving tire tracks in the snow. 
